@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-These projects give you a taste of my knack for diving into development, making it come alive with cool visuals, and digging up interesting insights. From Javascript to css and a dash of python in between, I've had a blast exploring and analyzing datasets as well as building some interactive projects to uncover some pretty neat stuff!
+These projects give you a taste of my knack for diving into development from Javascript to css and a dash of python in between, I've had a blast exploring and analyzing datasets as well as building some interactive projects to uncover some pretty neat stuff!
 
 - 🔭 I’m currently working on my Javascript skills!
 - 🌱 I’m currently learning Angular
