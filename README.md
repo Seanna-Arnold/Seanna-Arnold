@@ -6,5 +6,5 @@ These projects give you a taste of my knack for diving into development from Jav
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about why I want to be a Frontend Developer
 - 📫 How to reach me: 984-220-2525 seanna.arnold@icloud.com
-- ⚡ Fun fact: I've been caught in a Saharan sandstorm, grew up across fields of Zerbras and am from a country with the highest amount of rugby world cup wins🇿🇦!
+- ⚡ Fun fact: I've been caught in a Saharan sandstorm, grew up across fields of zebras and from a country with the highest amount of rugby world cup wins🇿🇦!
 
