@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-I'm a Web developer focused on building scalable digital experiences, custom CMS solutions, and performance-driven websites. Experienced with HubSpot CMS, front-end development, analytics implementation, and translating business requirements into user-friendly solutions. Passionate about clean code, accessibility, and continuous improvement.
+I'm Seanna, a web developer who enjoys turning ideas and designs into websites and digital experiences that are actually useful to people.
+
+I work primarily with JavaScript, TypeScript, React, HTML, and CSS, with experience across accessibility, APIs, CMS development, analytics, and performance optimization. I also use Figma and AI-assisted tools like Claude Code as part of my development workflow.
+
+I like working at the intersection of design, technology, and problem-solving — figuring out how something should work, building it, and then making it better.
