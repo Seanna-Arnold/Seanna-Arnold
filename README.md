@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Seanna, a web developer who enjoys turning ideas and designs into websites and digital experiences that are actually useful to people.
+I'm Seanna. I’m a web developer by day and an artist by passion, which probably explains why I’m drawn to the parts of development where design and technology overlap.
 
-I work primarily with JavaScript, TypeScript, React, HTML, and CSS, with experience across accessibility, APIs, CMS development, analytics, and performance optimization. I also use Figma and AI-assisted tools like Claude Code as part of my development workflow.
+I work with JavaScript, TypeScript, React, HTML, and CSS, and I’ve spent the last few years building and improving real-world websites and digital products. I’m particularly interested in thoughtful interfaces, accessibility, and finding better ways to turn an idea or design into something that actually works.
 
-I like working at the intersection of design, technology, and problem-solving — figuring out how something should work, building it, and then making it better.
+Outside of code, I’m usually drawing, painting, dancing, or finding some other way to make things with my hands.
